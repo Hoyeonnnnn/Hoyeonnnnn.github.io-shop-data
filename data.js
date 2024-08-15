@@ -1,20 +1,4 @@
-import adidas_img_1 from './image/adidas_img_1.jpg';
-import asics_img_1 from './image/asics_img_1.jpg'; 
-import bape_img_1 from './image/bape_img_1.jpg';
-import carhatt_img_1 from './image/carhatt_img_1.jpg';
-import chrome_img_1 from './image/chrome_img_1.jpg';
-import iab_img_1 from './image/iab_img_1.jpg';
-import jordan_img_1 from './image/jordan_img_1.jpg'; 
-import martinkim_img_1 from './image/martinkim_img_1.jpg'; 
-import newbalance_img_1 from './image/newbalance_img_1.jpg'; 
-import nike_img_1 from './image/nike_img_1.jpg';
-import palace_img_1 from './image/palace_img_1.jpg';
-import salomon_img_1 from './image/salomon_img_1.jpg';
-import sansangear_img_1 from './image/sansangear_img_1.jpg';
-import stussy_img_1 from './image/stussy_img_1.jpg';
-import supreme_img_1 from './image/supreme_img_1.jpg';
 
-let data = [
     {
         id: 0,
         title: "나이키",
@@ -135,6 +119,4 @@ let data = [
         item: "산산기어 자켓",
         img: sansangear_img_1
     },
-]
 
-export default data;
